@@ -30,10 +30,7 @@ Automatic Documantation generated for the api
 
 <br>
 
-[API - raiz](https://calm-beach-73839.herokuapp.com/)
-
-
-[API - rota de teste](https://calm-beach-73839.herokuapp.com/teste)
+[Documentaçao API](https://calm-caverns-27003.herokuapp.com/)
 
 
 ## :memo: Licença
