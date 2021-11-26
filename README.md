@@ -19,6 +19,10 @@
 
 Automatic Documantation generated for the api
 
+Inspirações:
+
+Aulas do prof. Elson.
+
 [FLASK PYTHON: CREATING REST APIS AND SWAGGER DOCUMENTATION](https://www.imaginarycloud.com/blog/flask-python/#Swagger)
 
 
