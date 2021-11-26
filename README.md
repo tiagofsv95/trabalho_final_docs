@@ -20,10 +20,19 @@
 Automatic Documantation generated for the api
 
 [FLASK PYTHON: CREATING REST APIS AND SWAGGER DOCUMENTATION](https://www.imaginarycloud.com/blog/flask-python/#Swagger)
+
+
 [Swagger documentation](https://flask-restplus.readthedocs.io/en/stable/swagger.html)
+
+
 [Youtube video](https://www.youtube.com/watch?v=vYubIZOyLfI&ab_channel=MaheshKariya)
 
+
+<br>
+
 [API - raiz](https://calm-beach-73839.herokuapp.com/)
+
+
 [API - rota de teste](https://calm-beach-73839.herokuapp.com/teste)
 
 
